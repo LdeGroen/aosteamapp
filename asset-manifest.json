@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aosteamsapp/static/css/main.213e5e55.css",
+    "main.js": "/aosteamsapp/static/js/main.d7089c8e.js",
+    "static/js/453.85c7337c.chunk.js": "/aosteamsapp/static/js/453.85c7337c.chunk.js",
+    "index.html": "/aosteamsapp/index.html",
+    "main.213e5e55.css.map": "/aosteamsapp/static/css/main.213e5e55.css.map",
+    "main.d7089c8e.js.map": "/aosteamsapp/static/js/main.d7089c8e.js.map",
+    "453.85c7337c.chunk.js.map": "/aosteamsapp/static/js/453.85c7337c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.213e5e55.css",
+    "static/js/main.d7089c8e.js"
+  ]
+}
