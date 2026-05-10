@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aosteamapp/static/css/main.0e7850e5.css",
-    "main.js": "/aosteamapp/static/js/main.ccc12d77.js",
+    "main.css": "/aosteamapp/static/css/main.ae703fcf.css",
+    "main.js": "/aosteamapp/static/js/main.bf4bfd3f.js",
     "static/js/453.85c7337c.chunk.js": "/aosteamapp/static/js/453.85c7337c.chunk.js",
     "index.html": "/aosteamapp/index.html",
-    "main.0e7850e5.css.map": "/aosteamapp/static/css/main.0e7850e5.css.map",
-    "main.ccc12d77.js.map": "/aosteamapp/static/js/main.ccc12d77.js.map",
+    "main.ae703fcf.css.map": "/aosteamapp/static/css/main.ae703fcf.css.map",
+    "main.bf4bfd3f.js.map": "/aosteamapp/static/js/main.bf4bfd3f.js.map",
     "453.85c7337c.chunk.js.map": "/aosteamapp/static/js/453.85c7337c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e7850e5.css",
-    "static/js/main.ccc12d77.js"
+    "static/css/main.ae703fcf.css",
+    "static/js/main.bf4bfd3f.js"
   ]
 }
